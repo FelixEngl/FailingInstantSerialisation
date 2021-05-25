@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="FailingInstantSerialisation-jvm-1.0-SNAPSHOT">
+    <output-path>D:\git\FailingInstantSerialisation\build\libs</output-path>
+    <root id="archive" name="FailingInstantSerialisation-jvm-1.0-SNAPSHOT.jar">
+      <element id="module-output" name="FailingInstantSerialisation.jvmMain" />
+    </root>
+  </artifact>
+</component>
