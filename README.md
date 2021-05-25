@@ -1,5 +1,6 @@
 # FailingInstantSerialisation
 
+Requires Java 11
 A code example where serializing an Instant-Object fails with:
 ```
 java.lang.IllegalStateException: Class Instant have constructor parameters which are not properties and therefore it is not serializable automatically
@@ -72,6 +73,6 @@ java.lang.IllegalStateException: Class Instant have constructor parameters which
 ```
 
   
- Requires Java 11
+
  
   
