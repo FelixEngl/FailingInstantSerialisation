@@ -3,6 +3,9 @@
 Requires Java 11
 
 
+Removing the `@Serializer(forClass = Instant::class)`-Annotation from the `InstantSerializer` makes the code runnable.
+
+
 
 A code example where serializing an Instant-Object fails with:
 ```
